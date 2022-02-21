@@ -1,0 +1,14 @@
+.card-body{
+    max-width: 80%;
+    margin: 10%;
+    text-align: center;
+}
+.button-bar {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+.button-start{
+    width: 180px;
+    height: 100px;
+}
